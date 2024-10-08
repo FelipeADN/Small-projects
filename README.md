@@ -1,2 +1,3 @@
 # Small-projects
-Small projects that don't deserve their own repository
++ This repository contains a compilation of multiple projects of mine that are small or medium size
++ Each folder will have the complete explanation of the project, and its implementation
