@@ -4,6 +4,7 @@
 - At the end of execution, the expected output shows the resulting keys and their respective layers.  
 - The program reads from stdin.  
 - Run "make" to compile.
+- [Original Requirements (In Portuguese)](https://www.inf.ufpr.br/eduardo/ensino/ci057/2020-2/trab1/trab.html)
 
 ## Program input
 ```i x``` - inserts x into the tree  
